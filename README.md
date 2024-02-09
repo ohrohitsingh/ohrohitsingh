@@ -1,4 +1,4 @@
-👋 Hi there, I'm Rohit Singh, a passionate Full Stack Developer with a keen interest in building scalable applications. Currently, I'm diving deep into DevOps while honing my skills in MERN stack development. My soft skills include leadership, entrepreneurship, and the ability to thrive under pressure, complemented by strong decision-making and adaptability. I excel in time management and teamwork, bringing creativity to every project.
+👋 Hi there, I'm Rohit Singh, a passionate Full Stack Developer with a keen interest in building scalable applications. Currently, I'm diving deep into DevOps while honing my skills in MERN stack development. My soft skills include the ability to thrive under pressure, complemented by strong decision-making and adaptability. I excel in time management and teamwork, bringing creativity to every project.
 
 👀 Full Stack Development:
 -> Building scalable applications

